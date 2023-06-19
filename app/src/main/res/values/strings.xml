@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="username">userName</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="regPage">didn\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="logPage">I Already Have!</string>
+    <string name="i2t">Image 2       Text</string>
+    <string name="LTran">Language  Translater</string>
+    <string name="qr">Qr Code Scanner</string>
+    <string name="faceRec">Face Detection</string>
+    <string name="update">Update Something</string>
+    <string name="fea">Features</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="introI2T">Welcome to Image to Text Application</string>
+    <string name="scatex">Your result appear here</string>
+    <string name="snap">Snap</string>
+    <string name="detect">Detect</string>
+    <string name="language_translator">Language Translator</string>
+    <string name="translate">Translate</string>
+    <string name="translated_text">Translated Text</string>
+    <string name="say_something">Say Something</string>
+    <string name="or">OR</string>
+    <string name="source_text">Source Text</string>
+    <string name="title">Title</string>
+    <string name="link">Link</string>
+    <string name="visit_link">Visit Link</string>
+</resources>
